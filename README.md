@@ -10,6 +10,9 @@ LISTA DE TAREAS:
 7. Pilas
 8. Operaciones Pilas
 9. Colas Simples
+10. Colas circulares
+11. Bicolas o colas dobles
+12. Lista enlazada simple
 
 LISTA DE PRÁCTICAS:
 1. Numeros (Imprimir 1-100) 
