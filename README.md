@@ -13,6 +13,8 @@ LISTA DE TAREAS:
 10. Colas circulares
 11. Bicolas o colas dobles
 12. Lista enlazada simple
+13. Listas circulares
+14. Listas doblemente enlazadas
 
 LISTA DE PRÁCTICAS:
 1. Numeros (Imprimir 1-100) 
