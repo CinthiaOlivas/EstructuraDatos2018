@@ -15,6 +15,7 @@ LISTA DE TAREAS:
 12. Lista enlazada simple
 13. Listas circulares
 14. Listas doblemente enlazadas
+15. Arboles
 
 LISTA DE PRÁCTICAS:
 1. Numeros (Imprimir 1-100) 
